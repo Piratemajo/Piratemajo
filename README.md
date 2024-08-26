@@ -12,10 +12,6 @@
 
 - 🔭 Actualmente estoy trabajando en **Minemu Network**
 
-<h3 align="left">Conéctate conmigo:</h3>
-<p align="left">
-  <!-- Aquí puedes añadir iconos y enlaces a tus redes sociales -->
-</p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
 <p align="left">
