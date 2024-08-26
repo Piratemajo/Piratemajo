@@ -12,10 +12,6 @@
 
 - 🔭 I’m currently working on **Minemu Network**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!-- You can add icons and links to your social media profiles here -->
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
