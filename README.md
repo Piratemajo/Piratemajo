@@ -6,7 +6,7 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=piratemajo" alt="piratemajo" />
+    <img src="https://github-profile-trophy.vercel.app/?username=piratemajo&theme=aura" alt="piratemajo" />
   </a>
 </p>
 
