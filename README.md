@@ -6,7 +6,7 @@
 
 <p align="left">
   <a href="https://github.com/hesreallyhim/github-profile-trophy-fork">
-    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Piratemajo&theme=aura alt="piratemajo" />
+    <img src="https://github-profile-trophy-fork-1gn4o5nrz-hesreallyhim.vercel.app/?username=Piratemajo&theme=aura alt="piratemajo" />
   </a>
 </p>
 
