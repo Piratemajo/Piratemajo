@@ -4,11 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=piratemajo&label=Profile%20views&color=0e75b6&style=flat" alt="piratemajo" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/hesreallyhim/github-profile-trophy-fork">
-    <img src="https://github-profile-trophy-fork-1gn4o5nrz-hesreallyhim.vercel.app/?username=Piratemajo&theme=aura alt="piratemajo" />
-  </a>
-</p>
 
 - 🔭 I’m currently working on **MagmaEnginers**
 
