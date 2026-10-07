@@ -57,8 +57,12 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Piratemajo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://trophygh.kolioaris.xyz/?username=Piratemajo&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Piratemajo&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=FFB800&currStreakNum=00D9FF&sideNums=8892B0&currStreakLabel=00D9FF&sideLabels=8892B0&dates=8892B0)
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Piratemajo&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=8892B0)
+
+
 </div>
 
 ###
